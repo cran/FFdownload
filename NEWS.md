@@ -1,3 +1,8 @@
+# FFdownload 1.1
+
+* Resubmit to CRAN
+* Added possibility to create list of tibbles rather than list of xts. Also added appropriate vignettes.
+
 # FFdownload 1.0.6
 
 * Resubmit to CRAN
